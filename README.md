@@ -5,6 +5,7 @@ I was not able to upload the train and test csv because it was too large. Predic
 Step 1) Open train_model.ipynb/train_with_kfold.ipynb and change the location of train and test csv as you've kept in your directory.
 
 Step 2) Run train_model.ipynb/train_with_kfold.ipynb, You'll get a prediction_for_testcsv which has all the predictions for the test data.
+* If you dont want to run the file you can see the output in the 'train_model.ipynb'/'train_with_kfold.ipynb' file
 ## Accuracy
 Accuracy: 96%
 
