@@ -6,6 +6,7 @@ Step 1) Open train_model.ipynb/train_with_kfold.ipynb and change the location of
 
 Step 2) Run train_model.ipynb/train_with_kfold.ipynb, You'll get a prediction_for_testcsv which has all the predictions for the test data.
 * If you dont want to run the file you can see the output in the 'train_model.ipynb'/'train_with_kfold.ipynb' file
+* You can find the final predictions in predictions_for_testcsv.txt file
 ## Accuracy
 Accuracy: 96%
 
