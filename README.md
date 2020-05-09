@@ -1,10 +1,9 @@
 # Wine-variety
 Welcome to this Repo
 I was not able to upload the train and test csv because it was too large
-Step 1
-Open train_model.ipynb and change the location of train and test csv as you've kept in your directory
-Step 2 
-Run train_model.ipynb, You'll get a prediction_for_testcsv which has all the predictions for the test data
+
+Step 1) Open train_model.ipynb and change the location of train and test csv as you've kept in your directory
+Step 2) Run train_model.ipynb, You'll get a prediction_for_testcsv which has all the predictions for the test data
 
 Accuracy: 96%
 So for this model I used NLP and neural networks to make the model. I'll describe the things that I did sequentially
