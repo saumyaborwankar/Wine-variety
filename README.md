@@ -24,11 +24,11 @@ So for this model I used NLP and neural networks to make the model. I'll describ
 Features used = country, review_title, review_description, designation, province, region_1, winery, year.
 ## Insights
 Insigths from data: 
-* 1)A lot of wines are from 83 to 93 points.
-* 2)England and Austria are at the top pointer countries.
-* 3)Switzerland and England rank high for expensive wines.
-* 4)9 people rated 'Bordeaux-style Red Blend' above 99 points.
-* 5)US is at the top of the list in number of wines produced.
+* A lot of wines are from 83 to 93 points.
+* England and Austria are at the top pointer countries.
+* Switzerland and England rank high for expensive wines.
+* 9 people rated 'Bordeaux-style Red Blend' above 99 points.
+* US is at the top of the list in number of wines produced.
 * ALL THESE INSIGHTS ARE PLOTTED IN 'visualizatioon.ipynb'.
 
 
