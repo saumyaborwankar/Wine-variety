@@ -8,7 +8,7 @@ Step 2) Run train_model.ipynb/train_with_kfold.ipynb, You'll get a prediction_fo
 * If you dont want to run the file you can see the output in the 'train_model.ipynb'/'train_with_kfold.ipynb' file
 * You can find the final predictions in 'predictions_for_testcsv.txt'/'preditionsKFOLD_for_testcsv.txt' file
 ## Accuracy
-Accuracy: 97%
+Accuracy: 98% (can be viewed in the train_with_kfold.ipynb file)
 
 ## Explaination steps
 So for this model I used NLP and neural networks to make the model. I'll describe the things that I did sequentially.
