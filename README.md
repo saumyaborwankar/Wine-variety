@@ -20,7 +20,7 @@ So for this model I used NLP and neural networks to make the model. I'll describ
 6) Removed the stopwords but kept the year as string.
 7) Used TFIDF vectorization for this 'new' column. 
 8) Extracted variety column and stored in variable.
-9) Made model from dense layers.
+9) Made model from dense layers and also applied 5-KFold crossvalidation.
 10) Fitted the model and predicted the test cases.
 ## Features used
 Features used = country, review_title, review_description, designation, province, region_1, winery, year.
@@ -31,7 +31,7 @@ Insigths from data:
 * Switzerland and England rank high for expensive wines.
 * 9 people rated 'Bordeaux-style Red Blend' above 99 points.
 * US is at the top of the list in number of wines produced.
-* ALL THESE INSIGHTS ARE PLOTTED IN 'visualizatioon.ipynb'.
+* ALL THESE INSIGHTS ARE PLOTTED IN 'visualization.ipynb'.
 
 
 
