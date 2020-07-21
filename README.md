@@ -33,7 +33,7 @@ Insigths from data:
 * US is at the top of the list in number of wines produced.
 * ALL THESE INSIGHTS ARE PLOTTED IN 'visualization.ipynb'.
 
-Thank You 
+Thank You for visiting
 
 
 
